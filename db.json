@@ -2,7 +2,7 @@
   "venues": [
     {
       "id": 1,
-      "name": "Araz Convention Hall",
+      "name": "Araz",
       "minimum_cost": 78900,
       "img": "https://media.weddingz.in/photologue/images/popular-kalyana-mantapas-in-bangalore.jpg",
       "info":{
@@ -62,7 +62,7 @@
       }
     },{
       "id": 2,
-      "name": "Araz 2nd Convention Hall",
+      "name": "Braz",
       "minimum_cost": 99900,
       "img": "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
       "info":{
@@ -122,7 +122,7 @@
       }
     },{
       "id": 3,
-      "name": "Araz 3rd Convention Hall",
+      "name": "Craz",
       "minimum_cost": 68900,
       "img": "https://www.varunajithesh.com/wp-content/sabai/File/files/l_68bb227058849b08d2f2ff7ff02ec2fe.jpg",
       "info":{
@@ -182,7 +182,7 @@
       }
     },{
       "id": 4,
-      "name": "Araz 4th Convention Hall",
+      "name": "Draz",
       "minimum_cost": 88900,
       "img": "https://conferences.msu.edu/sites/default/files/u31/peach%20wedding%20room_0_0.JPG",
       "info":{
