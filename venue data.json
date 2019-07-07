@@ -1,0 +1,25 @@
+{
+  "venues": [
+    {
+      "id": 1,
+      "name": "Araz Convention Hall",
+      "minimum_cost": 78900,
+      "img": "https://media.weddingz.in/photologue/images/popular-kalyana-mantapas-in-bangalore.jpg"
+    },{
+      "id": 2,
+      "name": "Araz 2nd Convention Hall",
+      "minimum_cost": 99900,
+      "img": "https://media.weddingz.in/photologue/images/popular-kalyana-mantapas-in-bangalore.jpg"
+    },{
+      "id": 3,
+      "name": "Araz 3rd Convention Hall",
+      "minimum_cost": 68900,
+      "img": "https://media.weddingz.in/photologue/images/popular-kalyana-mantapas-in-bangalore.jpg"
+    },{
+      "id": 4,
+      "name": "Araz 4th Convention Hall",
+      "minimum_cost": 88900,
+      "img": "https://media.weddingz.in/photologue/images/popular-kalyana-mantapas-in-bangalore.jpg"
+    }
+  ]
+}
