@@ -4,22 +4,177 @@
       "id": 1,
       "name": "Araz Convention Hall",
       "minimum_cost": 78900,
-      "img": "https://media.weddingz.in/photologue/images/popular-kalyana-mantapas-in-bangalore.jpg"
+      "img": "https://media.weddingz.in/photologue/images/popular-kalyana-mantapas-in-bangalore.jpg",
+      "info":{
+        "no_of_floors" : 2,
+        "stage_size": "Average",
+        "self_catering": "Not Available",
+        "guest_parking": "Street Parking",
+        "self_parking": "Available",
+        "seating_capacity": "180 Per Batch"
+      }
     },{
       "id": 2,
       "name": "Araz 2nd Convention Hall",
       "minimum_cost": 99900,
-      "img": "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg"
+      "img": "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
+      "info":{
+        "details":{
+          "no_of_floors" : 2,
+          "stage_size": "Average",
+          "self_catering": "Not Available",
+          "guest_parking": "Street Parking",
+          "self_parking": "Available",
+          "seating_capacity": "180 Per Batch"
+        },
+        "catering":[
+          {
+            "id": 1,
+            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Borhani", "Mineral Water"],
+            "price": 575
+          },{
+            "id": 2,
+            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Mineral Water"],
+            "price": 550
+          },{
+            "id": 3,
+            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Firni", "Mineral Water"],
+            "price": 500
+          },
+          {
+            "id": 4,
+            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Mineral Water"],
+            "price": 450
+          }
+        ],
+        "decoration":[
+          {
+            "id": 1,
+            "img": "",
+            "price": 50000 
+          },{
+            "id": 3,
+            "img": "",
+            "price": 60000 
+          },{
+            "id": 4,
+            "img": "",
+            "price": 70000 
+          },{
+            "id": 2,
+            "img": "",
+            "price": 100000 
+          }
+        ]
+      }
     },{
       "id": 3,
       "name": "Araz 3rd Convention Hall",
       "minimum_cost": 68900,
-      "img": "https://www.varunajithesh.com/wp-content/sabai/File/files/l_68bb227058849b08d2f2ff7ff02ec2fe.jpg"
+      "img": "https://www.varunajithesh.com/wp-content/sabai/File/files/l_68bb227058849b08d2f2ff7ff02ec2fe.jpg",
+      "info":{
+        "details":{
+          "no_of_floors" : 2,
+          "stage_size": "Average",
+          "self_catering": "Not Available",
+          "guest_parking": "Street Parking",
+          "self_parking": "Available",
+          "seating_capacity": "180 Per Batch"
+        },
+        "catering":[
+          {
+            "id": 1,
+            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Borhani", "Mineral Water"],
+            "price": 575
+          },{
+            "id": 2,
+            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Mineral Water"],
+            "price": 550
+          },{
+            "id": 3,
+            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Firni", "Mineral Water"],
+            "price": 500
+          },
+          {
+            "id": 4,
+            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Mineral Water"],
+            "price": 450
+          }
+        ],
+        "decoration":[
+          {
+            "id": 1,
+            "img": "",
+            "price": 50000 
+          },{
+            "id": 3,
+            "img": "",
+            "price": 60000 
+          },{
+            "id": 4,
+            "img": "",
+            "price": 70000 
+          },{
+            "id": 2,
+            "img": "",
+            "price": 100000 
+          }
+        ]
+      }
     },{
       "id": 4,
       "name": "Araz 4th Convention Hall",
       "minimum_cost": 88900,
-      "img": "https://conferences.msu.edu/sites/default/files/u31/peach%20wedding%20room_0_0.JPG"
+      "img": "https://conferences.msu.edu/sites/default/files/u31/peach%20wedding%20room_0_0.JPG",
+      "info":{
+        "details":{
+          "no_of_floors" : 2,
+          "stage_size": "Average",
+          "self_catering": "Not Available",
+          "guest_parking": "Street Parking",
+          "self_parking": "Available",
+          "seating_capacity": "180 Per Batch"
+        },
+        "catering":[
+          {
+            "id": 1,
+            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Borhani", "Mineral Water"],
+            "price": 575
+          },{
+            "id": 2,
+            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Mineral Water"],
+            "price": 550
+          },{
+            "id": 3,
+            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Firni", "Mineral Water"],
+            "price": 500
+          },
+          {
+            "id": 4,
+            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Mineral Water"],
+            "price": 450
+          }
+        ],
+        "decoration":[
+          {
+            "id": 1,
+            "img": "",
+            "price": 50000 
+          },{
+            "id": 3,
+            "img": "",
+            "price": 60000 
+          },{
+            "id": 4,
+            "img": "",
+            "price": 70000 
+          },{
+            "id": 2,
+            "img": "",
+            "price": 100000 
+          }
+        ]
+      }
     }
   ]
 }
