@@ -1,245 +1,51 @@
 {
-  "venues": [
-    {
-      "id": 1,
-      "name": "Araz",
-      "minimum_cost": 78900,
-      "img": "https://media.weddingz.in/photologue/images/popular-kalyana-mantapas-in-bangalore.jpg",
-      "info":{
-        "details":{
-          "imgs":[
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg"
-          ],
-          "no_of_floors" : 2,
-          "stage_size": "Average",
-          "self_catering": "Not Available",
-          "guest_parking": "Street Parking",
-          "self_parking": "Available",
-          "seating_capacity": "180 Per Batch"
+    "distribution_house_name":"",
+    "distribution_house_id":"",
+    "marchendisers": [
+        {
+            "id":"",
+            "medchendiser_name":"",
+            "route_count": "",
+            "route_list":[
+                {
+                    "route_name": "",
+                    "route_lat_lng":[
+                        [23.5792063761473, 89.8346771090909],
+                        [23.5784851333333, 89.8353561555555],
+                        [23.5784627454545, 89.83526042],
+                        [23.5785158571429, 89.8343561125],
+                        [23.57814614, 89.83454811],
+                        [23.5778648888889, 89.8347884333333],
+                        [23.578531, 89.8341186166667],
+                        [23.578100475, 89.8345373],
+                        [23.5780859727273, 89.8345408818182],
+                        [23.580720475, 89.8287764230769],
+                        [23.5807747583333, 89.811569625],
+                        [23.5811212857143, 89.81055442],
+                        [23.5130736333333, 89.8714309666667],
+                        [23.5830413, 89.7889631],
+                        [23.5830285, 89.788908],
+                        [23.583038725, 89.788787575],
+                        [23.5805444909091, 89.7896694857143],
+                        [23.58123658, 89.78723174],
+                        [23.55853505, 89.80913435],
+                        [23.56129584375, 89.78543045],
+                        [23.55602665, 89.78423825],
+                        [23.5425332, 89.7862704],
+                        [23.542564, 89.785957375],
+                        [23.5228657, 89.8053813],
+                        [23.5425735, 89.78502888],
+                        [23.5426704, 89.7846289],
+                        [23.5426976, 89.7845581],
+                        [23.5416464, 89.7854769],
+                        [23.5427548666667, 89.784210075],
+                        [23.5427264, 89.78422332],
+                        [23.54269934, 89.7841313],
+                        [23.5424748, 89.784073],
+                        [23.53932793, 89.78632767]
+                    ]
+                }
+            ]
         },
-        "catering":[
-          {
-            "id": 1,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Borhani", "Mineral Water"],
-            "price": 575
-          },{
-            "id": 2,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Mineral Water"],
-            "price": 550
-          },{
-            "id": 3,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Firni", "Mineral Water"],
-            "price": 500
-          },
-          {
-            "id": 4,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Mineral Water"],
-            "price": 450
-          }
-        ],
-        "decoration":[
-          {
-            "id": 1,
-            "img": "",
-            "price": 50000 
-          },{
-            "id": 3,
-            "img": "",
-            "price": 60000 
-          },{
-            "id": 4,
-            "img": "",
-            "price": 70000 
-          },{
-            "id": 2,
-            "img": "",
-            "price": 100000 
-          }
-        ]
-      }
-    },{
-      "id": 2,
-      "name": "Braz",
-      "minimum_cost": 99900,
-      "img": "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
-      "info":{
-        "details":{
-          "imgs":[
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg"
-          ],
-          "no_of_floors" : 2,
-          "stage_size": "Average",
-          "self_catering": "Not Available",
-          "guest_parking": "Street Parking",
-          "self_parking": "Available",
-          "seating_capacity": "180 Per Batch"
-        },
-        "catering":[
-          {
-            "id": 1,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Borhani", "Mineral Water"],
-            "price": 575
-          },{
-            "id": 2,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Mineral Water"],
-            "price": 550
-          },{
-            "id": 3,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Firni", "Mineral Water"],
-            "price": 500
-          },
-          {
-            "id": 4,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Mineral Water"],
-            "price": 450
-          }
-        ],
-        "decoration":[
-          {
-            "id": 1,
-            "img": "",
-            "price": 50000 
-          },{
-            "id": 3,
-            "img": "",
-            "price": 60000 
-          },{
-            "id": 4,
-            "img": "",
-            "price": 70000 
-          },{
-            "id": 2,
-            "img": "",
-            "price": 100000 
-          }
-        ]
-      }
-    },{
-      "id": 3,
-      "name": "Craz",
-      "minimum_cost": 68900,
-      "img": "https://www.varunajithesh.com/wp-content/sabai/File/files/l_68bb227058849b08d2f2ff7ff02ec2fe.jpg",
-      "info":{
-        "details":{
-          "imgs":[
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg"
-          ],
-          "no_of_floors" : 2,
-          "stage_size": "Average",
-          "self_catering": "Not Available",
-          "guest_parking": "Street Parking",
-          "self_parking": "Available",
-          "seating_capacity": "180 Per Batch"
-        },
-        "catering":[
-          {
-            "id": 1,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Borhani", "Mineral Water"],
-            "price": 575
-          },{
-            "id": 2,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Mineral Water"],
-            "price": 550
-          },{
-            "id": 3,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Firni", "Mineral Water"],
-            "price": 500
-          },
-          {
-            "id": 4,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Mineral Water"],
-            "price": 450
-          }
-        ],
-        "decoration":[
-          {
-            "id": 1,
-            "img": "",
-            "price": 50000 
-          },{
-            "id": 3,
-            "img": "",
-            "price": 60000 
-          },{
-            "id": 4,
-            "img": "",
-            "price": 70000 
-          },{
-            "id": 2,
-            "img": "",
-            "price": 100000 
-          }
-        ]
-      }
-    },{
-      "id": 4,
-      "name": "Draz",
-      "minimum_cost": 88900,
-      "img": "https://conferences.msu.edu/sites/default/files/u31/peach%20wedding%20room_0_0.JPG",
-      "info":{
-        "details":{
-          "imgs":[
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg",
-            "https://media.weddingz.in/images/0c53e8e2e390be0da426c3e224cc8087/8_HDvaqoO.jpg"
-          ],
-          "no_of_floors" : 2,
-          "stage_size": "Average",
-          "self_catering": "Not Available",
-          "guest_parking": "Street Parking",
-          "self_parking": "Available",
-          "seating_capacity": "180 Per Batch"
-        },
-        "catering":[
-          {
-            "id": 1,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Borhani", "Mineral Water"],
-            "price": 575
-          },{
-            "id": 2,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Salad", "Firni", "Mineral Water"],
-            "price": 550
-          },{
-            "id": 3,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Firni", "Mineral Water"],
-            "price": 500
-          },
-          {
-            "id": 4,
-            "items":["Polao", "Roast Chicken", "Rezala", "Kabab", "Mineral Water"],
-            "price": 450
-          }
-        ],
-        "decoration":[
-          {
-            "id": 1,
-            "img": "",
-            "price": 50000 
-          },{
-            "id": 3,
-            "img": "",
-            "price": 60000 
-          },{
-            "id": 4,
-            "img": "",
-            "price": 70000 
-          },{
-            "id": 2,
-            "img": "",
-            "price": 100000 
-          }
-        ]
-      }
-    }
-  ]
+    ]
 }
